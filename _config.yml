@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast"# "default","air", "aqua", "contrast", "dar
 locale                   : "ko-KR" # 시간대 변경
 title                    : "AI 세상에서 힘이 되는 블로그"
 title_separator          : "|"
-subtitle                 : "오늘도 성장한다."
+subtitle                 : "오늘도 나는 성장한다."
 name                     : "swgooddream"
 description              : "인공지능 시대의 힘이 되는 블로그입니다."
 "https://swgooddream.github.io"                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
